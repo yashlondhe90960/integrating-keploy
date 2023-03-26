@@ -1,4 +1,6 @@
-module example.com
+module project
+
+
 
 go 1.20
 
